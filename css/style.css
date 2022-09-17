@@ -115,6 +115,15 @@ body {
   background-color: #e6e0e0;
   opacity: 0.9;
 }
+.feature-card-light-full {
+  box-shadow: 2px 2px 4px #ccc;
+  width: 100%;
+  padding: 60px 30px;
+  text-align: center;
+  margin: 0 12px;
+  background-color: #e6e0e0;
+  opacity: 0.9;
+}
 .feature-card-dark {
   box-shadow: 2px 2px 4px rgb(31, 30, 30);
   width: 33%;
