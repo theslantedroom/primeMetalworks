@@ -1,0 +1,20 @@
+{
+  "name": "primemetalworks",
+  "version": "1.0.0",
+  "description": "Code fractals",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theslantedroom/primeMetalworks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theslantedroom/primeMetalworks/issues"
+  },
+  "homepage": "https://github.com/theslantedroom/primeMetalworks#readme"
+}
